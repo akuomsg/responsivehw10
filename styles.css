@@ -27,6 +27,7 @@
   width: 30%;
   padding: 1em;
   margin: 1em;
+}
 
   @media screen and (max-width: 450px) {
 	.small, .medium {

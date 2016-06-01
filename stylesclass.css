@@ -1,0 +1,17 @@
+.child {
+  height: 200px;
+  background-color: green;
+  border: 1px solid purple;
+}
+
+.grandbaby {
+ border: 1px solid yellow;
+ background-color: skyblue;
+ height: 100px;
+}
+
+  @media screen and (max-width: 450px) {
+	.small, .medium {
+		width: 100%;
+	}
+}
